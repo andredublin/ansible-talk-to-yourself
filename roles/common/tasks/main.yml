@@ -1,0 +1,4 @@
+---
+- name: Do something local
+  raw: echo "Ansible running on local machine"
+
