@@ -1,7 +1,7 @@
 ---
 - name: Run commands on localhost with ansible
   hosts: localhost
-  user: dublinan
+  user: editme
   sudo: no
   roles:
     - common
